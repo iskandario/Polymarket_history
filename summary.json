@@ -1,0 +1,22 @@
+{
+  "run_id": "5220aa5db1f0f6138c939371",
+  "wallet": "0x46b353667fd7d846af3bbeda6584b0e5b883d3de",
+  "chain_id": 137,
+  "block_number": 93845241,
+  "block_hash": "0x2220c9682da9bbe6a9e248efbd3665d47d7409656b7cc7255789893987e28a24",
+  "all_balances_match": true,
+  "negative_prefixes": 0,
+  "source_log_count": 2236962,
+  "receipts_verified": false,
+  "snapshot_utc": "2026-09-15T11:48:15+00:00",
+  "checked_balances": 420295,
+  "mismatches": 0,
+  "nonzero_positions": 392775,
+  "erc20_balances_raw": {
+    "USDC.e": "0",
+    "NegRiskWrappedCollateral": "0",
+    "USDC": "0",
+    "pUSD": "127561028"
+  },
+  "rpc_balance_calls": 2106
+}

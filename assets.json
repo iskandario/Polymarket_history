@@ -1,0 +1,12 @@
+{
+  "erc1155": {
+    "0x4d97dcd97ec945f40cf65f87097ace5ea0476045": "ConditionalTokens",
+    "0x006f54f7f9a22e0000cc2ab60031000000ae9fef": "PositionManager"
+  },
+  "erc20": {
+    "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": "USDC.e",
+    "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359": "USDC",
+    "0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb": "pUSD",
+    "0x3a3bd7bb9528e159577f7c2e685cc81a765002e2": "NegRiskWrappedCollateral"
+  }
+}
